@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_web_course/locator.dart';
-import 'package:flutter_web_course/router/route_generator.dart';
 import 'package:flutter_web_course/router/router.dart';
 import 'package:flutter_web_course/services/navigator_service.dart';
 import 'package:flutter_web_course/ui/layout/main_layout_page.dart';
